@@ -10,5 +10,5 @@ This GitHub represents a **proof layer**, not a portfolio. Every repository here
 - **schema-patterns-for-ai-retrieval** – Shows how schema functions as retrieval logic, including what works, what fails, and why validation ≠ visibility  
 
 ## Primary Identity Layer
-- Website: aroojfatima.co
+- Website: https://www.aroojfatima.co
 - LinkedIn: https://www.linkedin.com/in/arooj-fatima-ai-retrieval-visibility-architect
