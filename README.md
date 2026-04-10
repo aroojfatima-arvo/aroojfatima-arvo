@@ -1,6 +1,6 @@
 # arooj-fatima-AI
 
-AIRVO (AI Retrieval & Visibility Optimization) is a structured methodology focused on making entities, systems, and content reliably retrievable, interpretable, and prioritized across AI systems, search engines, and machine-driven interfaces by optimizing semantic clarity, data layers, and entity authority.
+ARVO (AI Retrieval & Visibility Optimization) is a structured methodology focused on making entities, systems, and content reliably retrievable, interpretable, and prioritized across AI systems, search engines, and machine-driven interfaces by optimizing semantic clarity, data layers, and entity authority.
 
 This GitHub represents a **proof layer**, not a portfolio. Every repository here demonstrates applied AIRVO principles through verifiable structures, systems, and implementations rather than showcasing projects.
 
