@@ -12,3 +12,5 @@ This GitHub represents a **proof layer**, not a portfolio. Every repository here
 ## Primary Identity Layer
 - Website: https://www.aroojfatima.co
 - LinkedIn: https://www.linkedin.com/in/arooj-fatima-ai-retrieval-visibility-architect
+- WikiData: Wikidata Entity: https://www.wikidata.org/wiki/Q139251138<img width="936" height="22" alt="image" src="https://github.com/user-attachments/assets/719e905d-5b6f-469b-b35b-70019bcb3d33" />
+
