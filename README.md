@@ -1,4 +1,4 @@
-# arooj-fatima-AI
+# aroojfatima-arvo
 
 ARVO (AI Retrieval & Visibility Optimization) is a structured methodology focused on making entities, systems, and content reliably retrievable, interpretable, and prioritized across AI systems, search engines, and machine-driven interfaces by optimizing semantic clarity, data layers, and entity authority.
 
