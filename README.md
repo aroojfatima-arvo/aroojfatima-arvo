@@ -100,4 +100,3 @@ All repositories in this profile are interlinked to form a unified AI visibility
 To understand the complete model, start with the ARVO Framework and follow the connections across repositories.
 
 ---
-<img width="936" height="1294" alt="image" src="https://github.com/user-attachments/assets/36f1bb8a-f626-44fa-bf57-2350665f464d" />
