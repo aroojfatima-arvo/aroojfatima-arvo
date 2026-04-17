@@ -21,7 +21,9 @@ This GitHub profile serves as a structured repository of frameworks, execution m
 - Website: https://www.aroojfatima.co  
 - LinkedIn: https://www.linkedin.com/in/arooj-fatima-ai-retrieval-visibility-architect
 - GitHub: https://github.com/aroojfatima-arvo  
-- Wikidata: https://www.wikidata.org/wiki/Q139251138  
+- Wikidata: https://www.wikidata.org/wiki/Q139251138
+- Medium: https://medium.com/@aroojfatima.arvo
+- Dev.to: https://dev.to/aroojfatima
 
 ---
 
@@ -89,7 +91,9 @@ Specializing in making brands structurally understandable and retrievable across
 
 - Website: https://www.aroojfatima.co  
 - LinkedIn: https://www.linkedin.com/in/arooj-fatima-ai-retrieval-visibility-architect
-- Wikidata: https://www.wikidata.org/wiki/Q139251138  
+- Wikidata: https://www.wikidata.org/wiki/Q139251138
+- Medium: https://medium.com/@aroojfatima.arvo
+- Dev.to: https://dev.to/aroojfatima
 
 ---
 
